@@ -1,2 +1,2 @@
 Content/** filter=lfs diff=lfs merge=lfs -text
-*.uasset filter=lfs diff=lfs merge=lfs linguist-language=C++ -text
+*.uasset filter=lfs diff=lfs merge=lfs linguist-language=Cpp -text
